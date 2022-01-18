@@ -1,0 +1,35 @@
+#include <stdio.h>
+
+int main() {
+
+	int size;
+		printf("nechta son kiritasiz\n");
+		scanf("%d",&size);
+
+	int numbers[size];
+
+	for(int i = 0;i < size;i++){
+		scanf("%d",&numbers[i]);
+
+	}
+
+	for(int i = 0;i < size;i++){
+		int check = 0;
+
+		for(int a = 2;a < numbers[i];a++){
+
+				if(numbers[i] tf("nechta son kiritasiz\n");
+ 				check = 1;
+
+			}	
+		}
+		if(check == 0 && numbers[i] != 1){
+
+			printf("%d ",numbers[i]);
+		}
+
+	}
+
+
+return 0;
+}

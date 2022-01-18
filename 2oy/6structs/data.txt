@@ -1,0 +1,3 @@
+| NO | Model                          |  Price | Max speed |
+|  1 | jl                             | 899.00 | 900 |
+|  2 | jkj                            | 989.00 |  90 |

@@ -1,0 +1,28 @@
+#include <stdio.h>
+
+int main() {
+
+	int numbers[10];
+
+	for(int i = 0;i < 10;i++){
+
+		scanf("%d",&numbers[i]);
+	}
+
+
+	for(int i = 0; i < 10;i++){
+
+		if(numbers[i] % 2 == 0) {
+
+			  juft[i] = numbers[i];
+		}else if(numbers[i] % 2 == 1){
+
+			    toq[i] = numbers[i];
+				}
+
+		printf(" %d",juft[i]);
+
+	}
+
+return 0;
+}
